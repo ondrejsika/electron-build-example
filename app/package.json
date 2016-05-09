@@ -1,0 +1,12 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Electron app example",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "private": true,
+  "main": "./index.js",
+  "dependencies": {
+    "electron-debug": "^0.5.2"
+  }
+}
