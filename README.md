@@ -8,6 +8,8 @@ Example of .EXE build of Electron JS app
 ### Install
 
 ```
+nvm install 6.1.0
+nvm use 6.1.0
 git clone git@github.com:ondrejsika/electron-build-example.git
 cd electron-build-example
 npm install
